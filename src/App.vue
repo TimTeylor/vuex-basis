@@ -6,6 +6,8 @@
 </template>
 
 <script>
+import Counter from './Counter'
+import Actions from './Actions'
 export default {
   data () {
     return {
